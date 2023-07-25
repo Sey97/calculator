@@ -4,6 +4,10 @@ public class Calculator {
     }
 
     public double addition(double a, double b) {
+        // Causes merge conflict
+        // push this file ;)
+        return b + a;
+    }
         return b + a;
     }
     
